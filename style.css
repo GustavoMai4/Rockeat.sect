@@ -2,6 +2,7 @@ body {
   background: #2C2B3D;
   margin: 0;
   text-align: center;
+  min-width: 100%;
 }
 
 header {
